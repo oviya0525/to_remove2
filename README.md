@@ -4,3 +4,6 @@ demo repository for practice
 *stage the change 
 *commit
 *push 
+explanation for ternary research tree
+*string
+*character
